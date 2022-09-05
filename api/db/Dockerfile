@@ -1,2 +1,2 @@
 FROM mysql 
-ENV MYSQL_ROOT_PASSWORD programadorabordo
+ENV MYSQL_ROOT_PASSWORD pass123

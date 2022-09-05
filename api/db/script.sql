@@ -1,6 +1,6 @@
-CREATE DATABASE IF NOT EXISTS programadorabordo;
+CREATE DATABASE IF NOT EXISTS arthurdocker;
 
-USE programadorabordo;
+USE arthurdocker;
 
 CREATE TABLE IF NOT EXISTS products (
   id INT(11) AUTO_INCREMENT,
